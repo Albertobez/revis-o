@@ -17,3 +17,7 @@ sim os perfies que estão em publico so nao os privados.
  5 oque e vcs?
 
 software de controle de versão
+
+ 6 oque e Brand?
+
+ramificação de um repositorio
